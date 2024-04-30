@@ -1,0 +1,20 @@
+[
+  {
+    "Title": "Food",
+    "Amount": 54.2,
+    "Type_of_transaction": "Expense",
+    "Note": "McDonald at Rymal"
+  },
+  {
+    "Title": "Medical",
+    "Amount": 50.0,
+    "Type_of_transaction": "expense",
+    "Note": "regular checkup"
+  },
+  {
+    "Title": "32",
+    "Amount": 23.0,
+    "Type_of_transaction": "23",
+    "Note": "23"
+  }
+]
